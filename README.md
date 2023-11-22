@@ -1,3 +1,3 @@
 # MonitoolAPI
 
-This one only pings for now
+Only pings for now
