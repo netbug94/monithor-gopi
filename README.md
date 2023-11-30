@@ -1,3 +1,4 @@
 # MonitoolAPI
 
-Only pings for now
+"Private version handles more at the moment"
+- Pings
