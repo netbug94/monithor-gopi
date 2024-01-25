@@ -1,7 +1,8 @@
-# MonotoolAPI
+# MonotoolClient App Official Stream
 
-## Ment to be used with [MonotoolClient](https://github.com/hispanicdevian/MonotoolClient)
+## Ment to be used with > [MonotoolClient](https://github.com/hispanicdevian/MonotoolClient)
 
-### "The private version currently handles more functions and is tailored specifically for its intended purpose"
+> [!NOTE]
+> This app is meant to be tailored towards a user's or company's needs, meaning the private version will have its own added functions and design
 
-- Ping function
+- Ping Function
