@@ -1,4 +1,5 @@
-# MonitoolAPI
+# MonotoolAPI
 
-"Private version handles more functions at the moment, it should be tailored towards its view purpose"
-- Pings
+### "The private version currently handles more functions and is tailored specifically for its intended purpose"
+
+- Ping function
