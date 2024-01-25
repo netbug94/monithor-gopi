@@ -5,4 +5,5 @@
 > [!NOTE]
 > This app is meant to be tailored towards a user's or company's needs, meaning the private version will have its own added functions and design
 
-- Ping Function
+### Core Funtions
+- Ping
